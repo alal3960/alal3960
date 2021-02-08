@@ -1,5 +1,5 @@
-# Hi there 👋
-###🌱 I’m currently learning ...
+# Hello 👋
+🌱 I’m currently learning ...
 <!--
 **alal3960/alal3960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
